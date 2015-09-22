@@ -129,4 +129,7 @@ class Empleado {
 			}
 		} while (opcion != 4);
 	}
+	public int GetClave(){
+		return clave;
+	}
 }
