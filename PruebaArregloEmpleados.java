@@ -46,10 +46,10 @@ class PruebaArregloEmpleados{
 								System.out.println("Borrado...");
 								}
 						break;
-			    case 6:  //ordenar
+			    case 6:  miarreglo.Ordenar();
 						break;
 
-				case 7: //estadisctica
+				case 7: e.CalculaEstadisticas();
 						break;
 
 			}

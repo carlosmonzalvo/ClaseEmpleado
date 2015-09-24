@@ -64,6 +64,9 @@ class ArregloEmpleado{
 	public  int GetIndice(){
 		return indice;
 	}
+	public Empleado GetEmpleado(int pos){
+		return arreglo[pos];
+	}
 
 
 }
